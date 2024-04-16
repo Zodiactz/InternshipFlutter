@@ -106,9 +106,6 @@ class _MyHomePageState extends State<MyHomePage> {
                     decoration: InputDecoration(
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(24),
-                        borderSide: const BorderSide(
-                            color:
-                                Colors.white), // Set the border color to white
                       ),
                       labelText: 'Weight (kg)',
                       filled: true,
